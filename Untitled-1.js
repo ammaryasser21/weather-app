@@ -1,0 +1,1 @@
+// liberary: -smaller than framework//like jquery is js library
